@@ -15,7 +15,7 @@ npm install legitbee/legitbee-cqrs
 Add the module import in your `app.module.ts`:
 
 ```typescript
-import {EventsModule} from 'legitbee/legitbee-cqrs';
+import {EventsModule} from 'legitbee-cqrs';
 
 @Module({
   imports: [
